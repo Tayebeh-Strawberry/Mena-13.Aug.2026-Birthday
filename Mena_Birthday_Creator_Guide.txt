@@ -1,0 +1,617 @@
+# MENA BIRTHDAY MISSION — CREATOR GUIDE
+
+IMPORTANT:
+This guide is for editing the existing Mena Birthday Mission HTML.
+
+The final experience must be a personal interactive birthday mission for Mena.
+It must NOT feel like a normal photo slideshow.
+
+Keep these files together in the same main folder:
+
+Mena_Birthday_Mission.html
+music.mp3
+myvoice.mp3
+photos/
+
+1. MUSIC — IMPORTANT
+
+---
+
+Use:
+
+```
+music.mp3
+```
+
+The Arabic Happy Birthday music must:
+
+* Start when Mena clicks "START MISSION →".
+* Continue playing as soft background music throughout the whole mission.
+* Do NOT restart the music when moving from one slide/level to another.
+* Keep the music gentle and elegant, approximately 15–20% volume.
+* The music should continue through all levels.
+* Near the final "Asheeeeghetaam" moment, gradually fade the music down.
+* Play myvoice.mp3 clearly.
+* After my voice finishes, gradually bring the birthday music back.
+* The final screen should still have the birthday music softly playing.
+
+IMPORTANT:
+The music should begin only after the user clicks START MISSION because browsers may block automatic audio before user interaction.
+
+2. MY VOICE
+
+---
+
+Use:
+
+```
+myvoice.mp3
+```
+
+My voice recording contains the final:
+
+```
+"Asheeeeghetaaaam..."
+```
+
+The sequence must be:
+
+```
+Birthday music playing softly
+          ↓
+GOLDEN TICKET / FINAL REVEAL
+          ↓
+Music fades down
+          ↓
+My voice plays:
+"Asheeeeghetaaaam..."
+          ↓
+Music gradually returns
+          ↓
+HAPPY BIRTHDAY, MENA ❤️
+```
+
+## 3. PHOTOS
+
+Create a folder:
+
+```
+photos/
+```
+
+Use these EXACT filenames:
+
+```
+1-Alba.jpeg
+2-Food.jpeg
+3-Mena Hospital.jpeg
+4-Me Hospital.jpg
+5-Our Hotel.jpeg
+6-Us.jpg
+7-Gift 1.jpg
+8-Gift 2.jpg
+```
+
+Do not rename them.
+
+Do not change spaces, hyphens, capitalization, or extensions.
+
+4. LEVEL 01 — THE BEGINNING
+
+---
+
+Use:
+
+```
+photos/1-Alba.jpeg
+```
+
+This is the "Alba" photo.
+
+Meaning:
+
+```
+The day the whole story quietly started.
+```
+
+The photo must appear inside Level 01 with the existing story:
+
+```
+12 January.
+Two people. One date.
+Zero idea where this was going.
+```
+
+The image should be clearly visible and elegant.
+
+Do NOT replace the story with a generic birthday message.
+
+5. LEVEL 02 — THE HAPPY ENDING
+
+---
+
+Use:
+
+```
+photos/2-Food.jpeg
+```
+
+This is the food photo.
+
+Theme:
+
+```
+The Happy Ending.
+```
+
+Keep the existing story about:
+
+```
+Kalle Pache
+tea
+"This is my happy ending."
+```
+
+The photo must appear on this level before the question.
+
+Question:
+
+```
+What happened immediately after?
+```
+
+Correct answer:
+
+```
+TEA
+```
+
+## 6. LEVEL 03 — HOSPITAL FILES
+
+Use BOTH:
+
+```
+photos/3-Mena Hospital.jpeg
+photos/4-Me Hospital.jpg
+```
+
+These two photos replace the current placeholder images:
+
+```
+hospital_01.jpg
+hospital_02.jpg
+```
+
+Remove the placeholder references completely.
+
+Display both photos.
+
+On desktop:
+Two photos side by side.
+
+On mobile:
+Stack the photos vertically.
+
+Keep the existing story:
+
+```
+Hospital Files.
+```
+
+Keep the question:
+
+```
+What was the secret mission happening alongside the hospital story?
+```
+
+Correct answer:
+
+```
+PTE
+```
+
+## 7. LEVEL 04 — THE MORNING
+
+Use:
+
+```
+photos/5-Our Hotel.jpeg
+```
+
+Theme:
+
+```
+Barbari + Omelette.
+```
+
+Keep the existing story:
+
+```
+"I'll get coffee."
+"What if we try a new breakfast?"
+Barbari + Omelette.
+```
+
+The hotel photo must appear on this level.
+
+Question:
+
+```
+Where did the story continue?
+```
+
+Correct answer:
+
+```
+HOTEL
+```
+
+## 8. LEVEL 05 — CLASSIFIED
+
+Use:
+
+```
+photos/6-Us.jpg
+```
+
+This is a personal photo of the two of us.
+
+Keep the existing classified style.
+
+Keep:
+
+```
+Some things stay between two people. 😏
+```
+
+And:
+
+```
+FIRST TIME.
+ONE HOTEL.
+ONE VERY IMPORTANT MIRROR.
+```
+
+The photo should support the memory without explaining everything.
+
+The purpose of this level is to make Mena understand that the mission contains memories only the two of us understand.
+
+9. LEVEL 06 — THE DISTANCE
+
+---
+
+Main title:
+
+```
+Dubai ↔ Muscat
+```
+
+Theme:
+
+```
+Different countries. Same story.
+```
+
+Use:
+
+```
+photos/6-Us.jpg
+```
+
+If another suitable couple photo is available later, it may replace this image.
+
+Keep:
+
+```
+Miki Mouse.
+Strawberry.
+Salammmm.
+Asheghetam.
+Behebek.
+```
+
+Keep the question:
+
+```
+What cannot be changed?
+```
+
+Correct answer:
+
+```
+US
+```
+
+This level should feel more emotional and lead naturally toward the Golden Ticket.
+
+10. LEVEL 07 — GOLDEN TICKET
+
+---
+
+Use:
+
+```
+photos/7-Gift 1.jpg
+```
+
+This is the first gift image.
+
+The purpose is to give Mena a visual clue without completely revealing the real gold gift.
+
+Keep:
+
+```
+THE GOLDEN TICKET
+
+ISSUED TO
+MENA
+
+ONE REAL BIRTHDAY GIFT
+```
+
+Keep:
+
+```
+Delivered personally.
+No courier.
+No delivery service.
+Just me.
+```
+
+The actual gift should remain partly mysterious.
+
+11. LEVEL 08 — FINAL GIFT REVEAL
+
+---
+
+Use:
+
+```
+photos/8-Gift 2.jpg
+```
+
+This is the final gift image.
+
+Place it toward the end of the Golden Ticket section.
+
+Do not reveal everything immediately.
+
+The emotional sequence should be:
+
+```
+ONE REAL BIRTHDAY GIFT
+
+Delivered personally.
+
+No courier.
+
+No delivery service.
+
+Just me.
+```
+
+Then:
+
+```
+Music fades down.
+```
+
+Then:
+
+```
+My voice plays:
+"Asheeeeghetaaaam..."
+```
+
+Then:
+
+```
+Music comes back softly.
+```
+
+Then display:
+
+```
+HAPPY BIRTHDAY, MENA ❤️
+```
+
+## 12. FINAL SCREEN
+
+The final screen should be simple and emotional.
+
+Main text:
+
+```
+HAPPY BIRTHDAY, MENA ❤️
+```
+
+Supporting text can remain:
+
+```
+Salammmm.
+```
+
+The final screen should NOT contain a long paragraph.
+
+The emotional impact should come from:
+
+```
+music
+→ silence / music fade
+→ my voice
+→ final birthday message
+```
+
+## 13. FINAL FOLDER STRUCTURE
+
+The finished folder must look exactly like this:
+
+Mena_Birthday/
+│
+├── Mena_Birthday_Mission.html
+├── music.mp3
+├── myvoice.mp3
+│
+└── photos/
+├── 1-Alba.jpeg
+├── 2-Food.jpeg
+├── 3-Mena Hospital.jpeg
+├── 4-Me Hospital.jpg
+├── 5-Our Hotel.jpeg
+├── 6-Us.jpg
+├── 7-Gift 1.jpg
+└── 8-Gift 2.jpg
+
+14. IMPORTANT HTML RULES
+
+---
+
+Do NOT convert the photos into base64.
+
+Do NOT put the photos directly inside the HTML.
+
+The HTML must reference them using paths such as:
+
+```
+photos/1-Alba.jpeg
+
+photos/2-Food.jpeg
+```
+
+etc.
+
+The music must be referenced as:
+
+```
+music.mp3
+```
+
+My voice must be referenced as:
+
+```
+myvoice.mp3
+```
+
+## 15. TESTING
+
+After editing the HTML:
+
+1. Save the HTML.
+
+2. Keep the HTML and all media files in the same folder structure.
+
+3. Double-click:
+
+   ```
+   Mena_Birthday_Mission.html
+   ```
+
+4. Open it in Chrome.
+
+Test the entire mission from the beginning.
+
+Check:
+
+```
+START MISSION
+    ↓
+Music starts
+    ↓
+Level 01
+    ↓
+Level 02
+    ↓
+Level 03
+    ↓
+Level 04
+    ↓
+Level 05
+    ↓
+Level 06
+    ↓
+Golden Ticket
+    ↓
+Gift 1
+    ↓
+Gift 2
+    ↓
+Music fades down
+    ↓
+My voice plays
+    ↓
+Music returns
+    ↓
+HAPPY BIRTHDAY, MENA ❤️
+```
+
+## 16. MOBILE TEST
+
+The final mission will most likely be opened on Mena's phone.
+
+Therefore:
+
+* The layout must work on mobile.
+* Photos must not overflow the screen.
+* Text must remain readable.
+* Buttons must be easy to press.
+* Music must work after START MISSION.
+* My voice must play correctly.
+* The Golden Ticket must look good on a vertical phone screen.
+* The photos must load correctly on mobile.
+
+17. MOST IMPORTANT CREATIVE RULE
+
+---
+
+This is NOT a slideshow.
+
+Do not simply show:
+
+```
+photo
+→ next photo
+→ next photo
+→ next photo
+```
+
+Instead, every photo must be connected to a memory or mission.
+
+The experience should feel like:
+
+```
+MEMORY
+   ↓
+PHOTO
+   ↓
+STORY
+   ↓
+QUESTION
+   ↓
+ANSWER
+   ↓
+NEXT LEVEL
+   ↓
+MORE MEMORIES
+   ↓
+DISTANCE
+   ↓
+GOLDEN TICKET
+   ↓
+REAL GIFT
+   ↓
+MY VOICE
+   ↓
+HAPPY BIRTHDAY ❤️
+```
+
+## 18. FINAL OBJECTIVE
+
+When Mena finishes the mission, she should feel:
+
+```
+"This wasn't just a birthday message.
+ He actually made this specifically for me."
+```
+
+The experience should feel personal, romantic, playful, slightly mysterious,
+and emotionally strong without becoming overly dramatic.
